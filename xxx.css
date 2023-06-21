@@ -1,0 +1,42 @@
+body {
+   font-family: Arial, sans-serif;
+   background-color: white;
+   text-align: center;
+   padding: 20px;
+}
+
+h1 {
+   font-size: 48px;
+   margin-bottom: 20px;
+}
+
+.container {
+   display: inline-block;
+   margin-right: 20px;
+}
+
+select {
+   font-size: 18px;
+   padding: 5px;
+}
+
+.alarm {
+   margin-top: 20px;
+}
+
+button {
+   font-size: 18px;
+   padding: 10px 20px;
+   background-color: #9145a0;
+   color: white;
+   border: none;
+   cursor: pointer;
+}
+
+button:hover {
+   background-color: #9145a0;
+}
+
+.disable {
+   display: none;
+}
